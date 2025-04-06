@@ -1,0 +1,2 @@
+user_id,archetype,battery_capacity,initial_charge,final_charge,min_charge_needed,utility_score,satisfied,total_cost,transactions,preferred_time_matches,avg_price_paid,max_price
+4999,Road Tripper,81.93489652821269,99.19942483552757,99.19942483552757,47.467231523190215,100,True,34.78054916585254,4,3,0,0.41983176124174604

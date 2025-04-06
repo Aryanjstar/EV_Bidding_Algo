@@ -1,0 +1,36 @@
+{
+  "market_summary": {
+    "avg_price": 0.21879491729824369,
+    "total_energy_traded": 382072.95108371775,
+    "total_revenue": 104508.76612230514,
+    "avg_grid_load": 0.24922691309022693,
+    "avg_renewable_contribution": 0.4429193020720749,
+    "user_satisfaction": 83.74855582013546,
+    "satisfaction_rate": 0.9089333333333334,
+    "peak_demand": 358631.2772257796,
+    "peak_transactions": 379960.95108371775,
+    "peak_price": 0.2736779549891543,
+    "price_volatility": 0.45422925969216016
+  },
+  "station_stats": {
+    "active_stations": 45,
+    "avg_utilization": 0.7735273201507217,
+    "highest_revenue_station": {
+      "station_id": 46,
+      "region": "highway",
+      "revenue": 7819.714275315352
+    },
+    "highest_utilization_station": {
+      "station_id": 0,
+      "region": "urban_dense",
+      "utilization": 1.0
+    }
+  },
+  "priority_stats": {
+    "emergency_users": 150,
+    "emergency_satisfaction": 92.19090100872624,
+    "emergency_allocations": 348,
+    "total_allocations": 17385,
+    "emergency_pct": 0.02001725625539258
+  }
+}

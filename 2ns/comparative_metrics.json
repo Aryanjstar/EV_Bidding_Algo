@@ -1,0 +1,29 @@
+{
+    "50": {
+        "social_welfare": -529.8289,
+        "user_satisfaction": 1.0,
+        "revenue": 569.8952,
+        "carbon_emissions": 345298.7074,
+        "unfulfilled_requests": 6,
+        "fairness_index": 0.9966,
+        "runtime": 0.0573
+    },
+    "100": {
+        "social_welfare": -1251.3988,
+        "user_satisfaction": 0.9998,
+        "revenue": 1590.3836,
+        "carbon_emissions": 758865.9769,
+        "unfulfilled_requests": 4,
+        "fairness_index": 0.9975,
+        "runtime": 0.0635
+    },
+    "250": {
+        "social_welfare": -11736.0295,
+        "user_satisfaction": 0.9987,
+        "revenue": 12812.9419,
+        "carbon_emissions": 2203931.3426,
+        "unfulfilled_requests": 15,
+        "fairness_index": 0.9976,
+        "runtime": 0.0884
+    }
+}

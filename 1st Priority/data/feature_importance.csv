@@ -1,0 +1,9 @@
+Feature,Importance
+charging_need,0.5008208462765926
+time_sensitivity,0.24475500006288692
+priority,0.08859265956546283
+price_sensitivity,0.05403628977407529
+charging_frequency,0.04204809184798757
+range_anxiety,0.03929887865191338
+current_charge_pct,0.01619669139341668
+battery_capacity,0.014251542427664753

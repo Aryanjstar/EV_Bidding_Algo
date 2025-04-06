@@ -1,0 +1,29 @@
+{
+  "market_summary": {
+    "avg_price": 0.19372860719071883,
+    "total_energy_traded": 274231.0457620027,
+    "total_revenue": 72690.45903271396,
+    "avg_grid_load": 0.1838149250664436,
+    "avg_renewable_contribution": 0.21756089305332277,
+    "user_satisfaction": 88.16599252134603,
+    "satisfaction_rate": 0.9838,
+    "peak_demand": 238165.790485464,
+    "peak_transactions": 273857.0457620027,
+    "peak_price": 0.2652503605293181,
+    "price_volatility": 0.250288919661298
+  },
+  "station_stats": {
+    "active_stations": 56,
+    "avg_utilization": 0.7949579831932774,
+    "highest_revenue_station": {
+      "station_id": 24,
+      "region": "urban_sparse",
+      "revenue": 5794.222862769589
+    },
+    "highest_utilization_station": {
+      "station_id": 0,
+      "region": "urban_dense",
+      "utilization": 1.0
+    }
+  }
+}

@@ -1,0 +1,2 @@
+station_id,region,capacity,energy_delivered,revenue,peak_utilization,renewable_sourced,avg_price
+49,urban_sparse,9,7652.37967492162,1724.3360233495885,1.0,0.497524442823423,0.22533330762463116
